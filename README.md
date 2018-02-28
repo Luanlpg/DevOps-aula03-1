@@ -4,6 +4,6 @@ Exercício
 #Ferramentas de controle de Versão
 
 *Mercurial
-*GitHub
+*Git
 *Subversion
 *CVS 
